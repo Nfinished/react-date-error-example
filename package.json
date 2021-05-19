@@ -16,7 +16,7 @@
     "vite": "^2.3.3"
   },
   "scripts": {
-    "build": "tsc && vite build",
+    "build": "vite build",
     "start": "vite"
   },
   "browserslist": {
